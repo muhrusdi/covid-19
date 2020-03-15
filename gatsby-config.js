@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Corona",
-    description:
-      "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+    description: "Covid-19 Coronavirus Outbreak",
     author: "@muhrusdiid"
   },
   plugins: [
